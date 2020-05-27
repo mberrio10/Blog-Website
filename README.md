@@ -5,7 +5,7 @@ This template was develop using create-react-app boilerplate created by for 4Gee
 #### Download the boilerplate using git
 
 ```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
+$ git clone https://github.com/mberrio10/Blog-Website.git
 $ cd react-hello
 ```
 
